@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 24 x 250mL</pName><pVol>250mL</pVol><pPrice>66.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Signature Series Icewine 3x200mL</pName><pVol>3x200mL</pVol><pPrice>133.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Family Savings</pName><pVol>None</pVol><pPrice>57.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>You Had Me At Merlot 4 x 750mL</pName><pVol>750mL</pVol><pPrice>73.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO 4 x 750mL</pName><pVol>750mL</pVol><pPrice>41.800000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Clarity Ruby Red VQA 12 x 750mL</pName><pVol>750mL</pVol><pPrice>143.4</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>White &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Red &amp; Rosé 6 x 250mL</pName><pVol>250mL</pVol><pPrice>16.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Warmers</pName><pVol>None</pVol><pPrice>74.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Whites</pName><pVol>None</pVol><pPrice>64.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Winter Reds</pName><pVol>None</pVol><pPrice>75.950000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>All About Icewine</pName><pVol>None</pVol><pPrice>89.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Blushing Canadian</pName><pVol>None</pVol><pPrice>52.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Apéritif Rouge</pName><pVol>None</pVol><pPrice>93.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Peller Estate Premium Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>58.9999856</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Goodfood Winter Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>100.000000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Estates Icewine Vidal 2017 VQA 200mL</pName><pVol>200mL</pVol><pPrice>49.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Best of Niagara Collection 6 x 750mL</pName><pVol>750mL</pVol><pPrice>113.700000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Showcase Cabernet Franc Icewine 2018 VQA 375mL</pName><pVol>375mL</pVol><pPrice>98.95</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>True North Collection 3 x 750mL</pName><pVol>750mL</pVol><pPrice>55.002255</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Wayne Gretzky Red &amp; White</pName><pVol>None</pVol><pPrice>82</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>XOXO Botanicals - Peach Orange Blossom 4 x 750mL</pName><pVol>750mL</pVol><pPrice>37.200000</pPrice><pCategory>Wines</pCategory></item>
+<item><pName>Trius Mixed Collection 4 x 750mL</pName><pVol>750mL</pVol><pPrice>67.35</pPrice><pCategory>Wines</pCategory></item>
+</items>
